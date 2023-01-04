@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ahpDN5eX0WSjISucs7IuflYsdXetbhgrKqA5dc5rUfKRPsaQU/uHT/G5tlQg5t0J/3yA1QmuWPc2T4pot8TxRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deepa\\OneDrive\\Desktop\\code\\RomanConverter\\RomanConverter\\RomanConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deepa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\deepa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\deepa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
